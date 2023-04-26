@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/woxro/static/css/main.8f02e191.css",
+    "main.js": "/woxro/static/js/main.49e17b82.js",
+    "static/js/787.62a915e9.chunk.js": "/woxro/static/js/787.62a915e9.chunk.js",
+    "static/media/banner.png": "/woxro/static/media/banner.2c8ddcc01fa3a326192c.png",
+    "static/media/woxroglobe.png": "/woxro/static/media/woxroglobe.ffe47696219b34120182.png",
+    "static/media/woxrologo.png": "/woxro/static/media/woxrologo.92858195ffb00e0e1110.png",
+    "index.html": "/woxro/index.html",
+    "main.8f02e191.css.map": "/woxro/static/css/main.8f02e191.css.map",
+    "main.49e17b82.js.map": "/woxro/static/js/main.49e17b82.js.map",
+    "787.62a915e9.chunk.js.map": "/woxro/static/js/787.62a915e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f02e191.css",
+    "static/js/main.49e17b82.js"
+  ]
+}
